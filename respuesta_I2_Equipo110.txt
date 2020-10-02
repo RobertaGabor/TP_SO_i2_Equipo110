@@ -8,3 +8,7 @@ a) Nosotros lo logramos con los siguientes comandos:
  git push
 
 b) Por lo que sabemos, sería posible si Alfa no tuviera ya el "upstream" de Beta
+
+c) Si puede.
+
+d) No, actualize y mis datos no se perdieron.
