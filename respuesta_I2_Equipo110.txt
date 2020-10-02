@@ -1,0 +1,10 @@
+a) Nosotros lo logramos con los siguientes comandos:
+
+ git remote add upstream
+ git remote add upstream https://github.com/costanzoabril/TP_SO_i2_Equipo110.git
+ git fetch upstream
+ git checkout main
+ git rebase upstream/main
+ git push
+
+b) Por lo que sabemos, sería posible si Alfa no tuviera ya el "upstream" de Beta
