@@ -12,3 +12,20 @@ b) Por lo que sabemos, sería posible si Alfa no tuviera ya el "upstream" de Bet
 c) Si puede.
 
 d) No, actualize y mis datos no se perdieron.
+
+e)
+Juan Cruz Muñoz
+Abil constanzo
+Roberta Gabor
+
+cmd --> ipconfig,date/time
+git:
+git clone
+git add .
+git commit -m""
+git remote add upstream *link de repositorio a linkear*
+git fetch upstream
+git checkout main
+git rebase upstream/main
+git push
+
