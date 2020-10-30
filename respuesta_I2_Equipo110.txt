@@ -29,3 +29,6 @@ git checkout main
 git rebase upstream/main
 git push
 
+Actualizacion:Hice merge para la culata, me pise los commits anterioresy solo quedaron los
+de mi equipo cuando hice el rebase y los ultimos mios
+
